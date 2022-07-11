@@ -1,2 +1,2 @@
-# akabeko-challenge
-赤ベコ活動記録アプリ
+# jetpack-room-test-practice
+JetPack Room,Kotlin Coroutineを使ったテストコード勉強
