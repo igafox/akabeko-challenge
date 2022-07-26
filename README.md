@@ -1,2 +1,2 @@
 # jetpack-room-test-practice
-RoomとCoroutineをとりあえず使ってみる試み
+RoomとCoroutineを組み合わせてみる試み
