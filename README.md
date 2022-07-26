@@ -1,2 +1,2 @@
 # jetpack-room-test-practice
-JetPack Room,Kotlin Coroutineを使ったテストコード勉強
+RoomとCoroutineをとりあえず使ってみる試み
